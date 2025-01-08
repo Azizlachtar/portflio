@@ -14,6 +14,7 @@ Clone repository and install dependencys with npm or yarn:
 ```bash
 npm run dev
 # or
+
 yarn dev
 ```
 Run project locally:
