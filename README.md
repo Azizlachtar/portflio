@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <hr />
 
@@ -27,3 +28,6 @@ Project will be available in: [http://localhost:3000](http://localhost:3000)
 Feel free
 "# aziz.tech" 
 "# aziz" 
+=======
+# portflio
+>>>>>>> 84c99df4c4a120c1652c67c0c86f1ca70979e97d
